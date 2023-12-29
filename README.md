@@ -20,16 +20,18 @@
 	
 	
  ```
+</details>
+-->
 
+<hr>
 
-### :zap: Github Stats
+<p align="center"> 
+  <i><b>Profile Visitor Count...</b></i><br><br>
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" /><br><br>
+  <img src="https://profile-counter.glitch.me/lostgirljourney/count.svg" />
+</p>
 
-  <img align="left" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josimarlife)](https://github.com/anuraghazra/github-readme-stats)" alt="Sumanth's Github Stats" width="60%">
-  
-<img src="https://github.com/Olelife/ole-api-testing/api/top-langs/?username=Sumanth-Talluri&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Sumanth's Top Languages">
-
-
-
+<hr>
 <!-- stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sumanth-Talluri&show_icons=true&hide_border=true&theme=dark)
 ![Sumanth's github Programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanth-Talluri&show_icons=true&hide_border=true")-->
